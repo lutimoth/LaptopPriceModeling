@@ -1,0 +1,131 @@
+,Brand,Model,Series,Processor,Processor_Gen,RAM,Hard_Disk_Capacity,OS,Rating,Price
+0,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+1,DELL,Vostro,,i5,11th,8,1 TB HDD,Windows 10 Home,3.6,50840
+2,ASUS,VivoBook,15,i3,10th,8,512 GB SSD,Windows 11 Home,4.3,37940
+3,DELL,Inspiron,,i3,11th,8,1 TB HDD,256 GB SSD,4.4,44440
+4,ASUS,TUF,Gaming,i5,10th,8,512 GB SSD,Windows 10 Home,4.5,57940
+5,ASUS,Ryzen,3,3250U,3rd,8,256 GB SSD,Windows 10 Home,4.3,35940
+6,DELL,Inspiron,Athlon,3050U,-,4,256 GB SSD,Windows 11 Home,4.2,33940
+7,DELL,Inspiron,,i5,11th,16,512 GB SSD,Windows 10,4.2,69040
+8,Lenovo,IdeaPad,3,i3,10th,8,1 TB HDD,Windows 10 Home,4.1,37440
+9,HP,,,i5,11th,8,512 GB SSD,Windows 11 Home,4.4,56449
+10,HP,,,i3,11th,8,512 GB SSD,Windows 11 Home,4.3,42440
+11,Lenovo,IdeaPad,3,i3,11th,8,256 GB SSD,Windows 11 Home,4.2,40940
+12,Lenovo,IdeaPad,3,i3,10th,8,256 GB SSD,Windows 11 Home,4.3,37940
+13,DELL,Inspiron,Ryzen,3250U,-,8,256 GB SSD,Windows 11 Home,4.3,37340
+14,HP,Ryzen,3,3250U,-,8,256 GB SSD,Windows 10 Home,4.3,38940
+15,Lenovo,IdeaPad,3,i3,11th,8,256 GB SSD,Windows 11 Home,4.3,40940
+16,acer,Aspire,7,i5,10th,8,512 GB SSD,Windows 10 Home,4.4,52940
+17,Lenovo,,,i3,10th,8,512 GB SSD,Windows 11 Home,4.3,62140
+18,ASUS,VivoBook,Ultra,i3,11th,8,512 GB SSD,Windows 11 Home,4.8,42940
+19,Lenovo,Thinkpad,Ryzen,5600U,-,8,512 GB SSD,DOS,4.1,57440
+20,ASUS,,,i3,11th,8,256 GB SSD,Windows 11 Home,4.4,38940
+21,HP,,,i3,10th,8,512 GB SSD,Windows 10 Home,4.3,42340
+22,ASUS,Vivobook,14,i3,11th,8,256 GB SSD,Windows 10 Home,4.3,37840
+23,ASUS,VivoBook,15,-,(4,4,256 GB SSD,Windows 10 Home,4.3,34940
+24,Lenovo,IdeaPad,3,5500U,-,8,512 GB SSD,Windows 11 Home,4.4,49940
+25,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+26,ASUS,VivoBook,15,i7,10th,16,512 GB SSD,Windows 11 Home,4.1,57940
+27,HP,Ryzen,3,5300U,-,8,512 GB SSD,Windows 11 Home,4.2,42740
+28,ASUS,VivoBook,15,i3,11th,4,256 GB SSD,Windows 10 Home,4.2,36940
+29,Lenovo,IdeaPad,3,i3,11th,8,256 GB SSD,Windows 11 Home,4.3,39940
+30,ASUS,VivoBook,15,i3,10th,4,512 GB SSD,Windows 11 Home,4.2,35940
+31,Lenovo,,,i3,10th,8,512 GB SSD,Windows 11 Home,4.3,62140
+32,DELL,Vostro,,i3,11th,8,256 GB SSD,Windows 10,4.3,41740
+33,DELL,Vostro,,i5,11th,8,1 TB HDD,Windows 10 Home,3.6,50840
+34,Lenovo,Ideapad,Slim,i5,11th,16,512 GB SSD,Windows 10 Home,4.4,59940
+35,DELL,Inspiron,,i3,11th,8,512 GB SSD,Windows 11 Home,4.4,45540
+36,DELL,Inspiron,,i3,11th,8,256 GB SSD,Windows 11 Home,4.3,41540
+37,Lenovo,Ideapad,Slim,i5,11th,8,512 GB SSD,Windows 10 Home,4.2,56449
+38,ASUS,VivoBook,15,i5,11th,8,1 TB HDD,256 GB SSD,4.3,52940
+39,DELL,Inspiron,,i5,11th,8,512 GB SSD,Windows 11 Home,4.4,59150
+40,Lenovo,,,i3,11th,4,256 GB SSD,Windows 10 Home,4.3,36940
+41,DELL,Inspiron,,i5,11th,16,512 GB SSD,Windows 10,4.2,69040
+42,HP,,,i3,11th,8,512 GB SSD,Windows 10,4.0,40940
+43,HP,Pavilion,Ryzen,5600H,-,8,512 GB SSD,Windows 11 Home,4.5,59940
+44,DELL,Inspiron,Ryzen,3450U,-,8,512 GB SSD,Windows 11 Home,4.3,49940
+45,APPLE,2020,Macbook,,,,,,4.7,84940
+46,DELL,Vostro,3405,3450U,-,8,256 GB SSD,Windows 10 Home,4.2,44440
+47,MSI,GF63,Thin,i5,10th,8,512 GB SSD,Windows 10 Home,4.5,65940
+48,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+49,DELL,Inspiron,,i3,11th,8,1 TB HDD,256 GB SSD,4.4,45340
+50,DELL,Vostro,,i3,10th,8,256 GB SSD,Windows 10 Home,4.3,41440
+51,HP,,,i5,11th,8,512 GB SSD,Windows 11 Home,4.1,55940
+52,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+53,ASUS,Vivobook,Gaming,i7,10th,8,512 GB SSD,Windows 10 Home,3.7,61940
+54,ASUS,ROG,Zephyrus,4800HS,-,8,1 TB SSD,Windows 10 Home,4.6,72940
+55,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 10,4.0,42540
+56,DELL,Vostro,,i5,11th,8,1 TB HDD,Windows 10 Home,3.6,50840
+57,Lenovo,IdeaPad,3,i5,10th,8,512 GB SSD,Windows 10 Home,4.3,50940
+58,ASUS,VivoBook,K15,i3,11th,8,256 GB SSD,Windows 11 Home,4.5,46940
+59,acer,Nitro,Ryzen,5600H,-,8,1 TB HDD,256 GB SSD,4.5,72940
+60,Lenovo,IdeaPad,3,i5,11th,8,512 GB SSD,Windows 10 Home,4.2,56940
+61,ASUS,ASUS,TUF,i5,11th,8,512 GB SSD,Windows 10 Home,4.5,71940
+62,HP,HP,Pavilion,4600H,-,8,512 GB SSD,Windows 10 Home,4.4,59940
+63,HP,Pavilion,Gaming,4800H,-,16,1 TB HDD,256 GB SSD,4.5,75940
+64,Lenovo,IdeaPad,3,i3,11th,8,256 GB SSD,Windows 11 Home,4.2,40940
+65,ASUS,VivoBook,K15,i5,11th,16,1 TB HDD,256 GB SSD,4.7,66940
+66,ASUS,TUF,Gaming,i5,11th,16,512 GB SSD,Windows 10 Home,4.6,89940
+67,realme,Book,(Slim),i3,11th,8,256 GB SSD,Windows 10 Home,4.4,46940
+68,MSI,Katana,GF66,i5,11th,16,512 GB SSD,Windows 10 Home,4.4,76940
+69,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+70,DELL,Vostro,Ryzen,R3-3250U,-,,,,3.9,37340
+71,ASUS,VivoBook,K15,i5,11th,16,1 TB HDD,256 GB SSD,4.3,65940
+72,Lenovo,Ideapad,Gaming,5600H,-,8,512 GB SSD,Windows 11 Home,4.5,60440
+73,Lenovo,IdeaPad,3,i3,11th,8,256 GB SSD,Windows 11 Home,4.3,39940
+74,DELL,,,i7,11th,16,512 GB SSD,Windows 11 Home,4.4,88940
+75,APPLE,MacBook,Air,,,,,,4.5,119940
+76,ASUS,Vivobook,14,i3,10th,8,1 TB HDD,Windows 10 Home,4.2,34940
+77,Lenovo,Ideapad,Slim,i5,11th,16,512 GB SSD,Windows 10 Home,4.4,59940
+78,Lenovo,IdeaPad,Flex,i3,11th,8,512 GB SSD,Windows 10 Home,4.5,55940
+79,HP,Ryzen,5,-,(8,8,512 GB SSD,Windows 11 Home,4.6,48940
+80,DELL,Inspiron,Ryzen,3450U,-,8,1 TB HDD,256 GB SSD,3.9,49240
+81,APPLE,MacBook,Air,,,,,,4.5,105940
+82,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+83,DELL,Inspiron,,i5,11th,16,512 GB SSD,Windows 10,4.4,67740
+84,ASUS,VivoBook,15,i3,10th,4,1 TB HDD,Windows 10 Home,3.7,31940
+85,HP,Notebook,PC,i3,11th,8,1 TB HDD,Windows 10,3.9,40940
+86,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+87,APPLE,2020,Macbook,,,,,,4.7,110940
+88,APPLE,2020,Macbook,,,,,,4.6,129990
+89,ASUS,Chromebook,Celeron,-,(4,4,64 GB EMMC Storage,Chrome OS,4.2,23490
+90,APPLE,2020,Macbook,,,,,,4.6,129990
+91,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39090
+92,DELL,Vostro,,i3,11th,4,1 TB HDD,256 GB SSD,4.1,43126
+93,Lenovo,IdeaPad,5,i5,11th,16,512 GB SSD,Windows 10 Home,4.6,70940
+94,ASUS,,,i3,10th,4,1 TB HDD,Windows 10 Home,3.7,34440
+95,DELL,Inspiron,,i3,11th,8,1 TB HDD,256 GB SSD,4.1,48940
+96,ASUS,Ryzen,5,5500U,-,8,512 GB SSD,Windows 10 Home,4.5,49940
+97,HP,Pavilion,Gaming,i7,11th,16,512 GB SSD,Windows 10 Home,4.4,98140
+98,MSI,,,i3,11th,8,512 GB SSD,Windows 10 Home,4.4,48740
+99,DELL,Vostro,,i5,11th,8,1 TB HDD,Windows 10 Home,3.6,50840
+100,Lenovo,IdeaPad,Slim,i3,11th,8,512 GB SSD,Windows 10 Home,4.4,45440
+101,DELL,Vostro,,i3,10th,8,512 GB SSD,Windows 10,3.9,43040
+102,MICROSOFT,Surface,Laptop,i5,8th,8,128 GB SSD,Windows 10 Home,4.5,91949
+103,ASUS,ROG,Strix,i5,10th,8,512 GB SSD,Windows 10 Home,4.6,75940
+104,ASUS,Vivobook,14,-,(8,8,256 GB SSD,Windows 11 Home,4.3,32940
+105,HP,Envy,,i5,10th,8,512 GB SSD,Windows 10 Home,4.3,74940
+106,acer,Swift,3,i5,8th,8,1 TB HDD,128 GB SSD,4.6,59940
+107,DELL,Inspiron,,i5,11th,8,1 TB HDD,256 GB SSD,4.2,63610
+108,HP,HP,Pavilion,i5,11th,16,512 GB SSD,Windows 10 Home,4.5,71940
+109,Lenovo,IDEAPAD,3,AMD,Ryzen™,8,512 GB SSD,Windows 10,3.7,59850
+110,ASUS,ZenBook,Duo,i5,11th,16,512 GB SSD,Windows 10 Home,4.4,114940
+111,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+112,ASUS,Vivobook,14,i3,11th,4,256 GB SSD,Windows 10 Home,4.2,36940
+113,Lenovo,Ideapad,Gaming,i5,10th,8,1 TB HDD,256 GB SSD,4.4,64940
+114,Lenovo,Ideapad,530s,i5,8th,8,512 GB SSD,Windows 10 Home,4.4,59949
+115,Lenovo,IdeaPad,3,i3,11th,8,256 GB SSD,Windows 11 Home,4.3,39940
+116,Lenovo,APU,Dual,A9,A99425,4,1 TB HDD,DOS,3.9,21846
+117,DELL,3000,,i3,11th,8,1 TB HDD,Windows 11 Home,4.2,43850
+118,ASUS,Chromebook,Celeron,-,(4,4,32 GB EMMC Storage,Chrome OS,3.6,17640
+119,HP,250-G6,,i5,7th,4,1 TB HDD,DOS,4.2,46150
+120,APPLE,MacBook,Air,,,,,,4.5,119940
+121,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+122,acer,Travelmate,,i5,11th,16,1 TB HDD,256 GB SSD,3.4,62440
+123,DELL,,,i3,10th,8,1 TB HDD,256 GB SSD,2.9,46840
+124,DELL,,,i3,10th,8,1 TB HDD,Windows 10,3.2,41340
+125,DELL,Inspiron,,i3,11th,8,1 TB HDD,Windows 11 Home,3.7,39040
+126,HP,15q,,i3,7th,4,1 TB HDD,DOS,4.2,32905
+127,Lenovo,v15,,i3,10th,4,1 TB HDD,DOS,3.1,39949
+128,ASUS,Vivobook,15,i3,11th,8,1 TB HDD,Windows 10 Home,2.9,42750
+129,Lenovo,IdeaPad,3,i3,11th,8,256 GB SSD,Windows 11 Home,4.3,39940
