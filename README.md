@@ -28,9 +28,9 @@ We want to make sure the data is clean and usable. That means removing things li
 
 We explored the dataset. The median price of laptops was a reasonable $834. Pricing was spread out pretty consistently across brands except some brands are clearly above. Across features, we saw consistent pricing ranges for all levels which implies a combination of features is more important than a singular feature. We also saw some pretty good correlations with SSD price and Graphic card size and price.
 
-![Median Price](./readme_files/medianprice.png)
+![Median Price](./readme_files/medianprice.jpg)
 
-![Correlational HeatMap](./readme_files/corr_heatmap.png)
+![Correlational HeatMap](./readme_files/corr_heatmap.jpg)
 
 ## 5. Modeling
 [Pre-Processing Report](https://github.com/naturesbless/LaptopPriceModeling/blob/1ba69064df1bb1591b8e693583ef2735fc70eebb/notebooks/Laptop%20Data%20Pre-processing.ipynb)
@@ -41,17 +41,17 @@ I chose to utilize a few different packages in order to perform the Machine Lear
 #5.1 K-Prototype
 For K-Prototype I used the @nicodv K-Modes package that can be found [here](https://github.com/nicodv/kmodes}. We ended with a 12-cluster model that worked pretty well. 
 I used K-Prototype because of its ability to directly measure using categorical variables without its need for dummy encoding. We followed up with SHAP values to understand how much each feature impacted the algorithm's ability to cluster.
-![K-Prototype Shap Values](./readme_files/kproto_shap.png)
+![K-Prototype Shap Values](./readme_files/kproto_shap.jpg)
 
 #5.2 Isomapping
 For Isomapping we used the scikit-learn manifold learning algorithm. It is a dimensionality reduction algorithm which I used to reduce down to two dimensions but due to the overlap, it was difficult to interpret.
 
-![2-D Isomapping](./readme_files/iso2d.png)
+![2-D Isomapping](./readme_files/iso2d.jpg)
 
 #5.3 XGBoost
 XGBoost utilized the @dmlc [XGBoost Algorithm](https://github.com/dmlc/xgboost) and the Python API. Using XGBoost was able to give really good insight into important features for prediction and pricing alongside the ability to understand how certain pricing divisions could be made. 
 
-![XGBoost Feature Importance](./readme_files/xgboost_feature.png)
+![XGBoost Feature Importance](./readme_files/xgboost_feature.jpg)
 
 Ultimately, we went with K-Prototyping for its easy to understand centroids and great adaptability to future points.
 
