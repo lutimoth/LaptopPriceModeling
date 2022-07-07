@@ -1,0 +1,5 @@
+K Prototypes Parameters
+n_clusters = 10
+init = 'Cao'
+n_init = 5
+cost = 185.65
