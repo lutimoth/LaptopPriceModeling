@@ -62,10 +62,4 @@ Gathering more data on laptop prices and more effective grouping algorithms is a
 ## 8. Credits
 Thank you to the developers of the sci-kit learn pacakage. Thank you to DMLC for their devleopment of XGBoost. 
 
-Thank you to developer of KModes:
-@Misc{devos2015,
-  author = {Nelis J. de Vos},
-  title = {kmodes categorical clustering library},
-  howpublished = {\url{https://github.com/nicodv/kmodes}},
-  year = {2015--2021}
-}
+Thank you to developer of KModes, [@nicodv](https://github.com/nicodv/kmodes)
