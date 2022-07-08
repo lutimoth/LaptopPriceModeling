@@ -1,0 +1,59 @@
+digraph {
+    graph [ rankdir=TB ]
+
+    0 [ label="processor_name_Core i3<0.5" ]
+    0 -> 1 [label="yes, missing" color="#0000FF"]
+    0 -> 2 [label="no" color="#FF0000"]
+
+    1 [ label="processor_name_Ryzen 5<0.5" ]
+    1 -> 3 [label="yes, missing" color="#0000FF"]
+    1 -> 4 [label="no" color="#FF0000"]
+
+    3 [ label="weight_Gaming<0.5" ]
+    3 -> 5 [label="yes, missing" color="#0000FF"]
+    3 -> 6 [label="no" color="#FF0000"]
+
+    5 [ label="brand_acer<0.5" ]
+    5 -> 7 [label="yes, missing" color="#0000FF"]
+    5 -> 8 [label="no" color="#FF0000"]
+
+    7 [ label="ssd_gb<384" ]
+    7 -> 9 [label="yes, missing" color="#0000FF"]
+    7 -> 10 [label="no" color="#FF0000"]
+
+    9 [ label="ram_gb<12" ]
+    9 -> 13 [label="yes, missing" color="#0000FF"]
+    9 -> 14 [label="no" color="#FF0000"]
+
+    13 [ label="leaf=-0.0708617792" ]
+
+    14 [ label="leaf=0.140894145" ]
+
+    10 [ label="processor_gnrtn_8th<0.5" ]
+    10 -> 15 [label="yes, missing" color="#0000FF"]
+    10 -> 16 [label="no" color="#FF0000"]
+
+    15 [ label="leaf=0.0517876372" ]
+
+    16 [ label="leaf=-0.0953050926" ]
+
+    8 [ label="ram_gb<6" ]
+    8 -> 11 [label="yes, missing" color="#0000FF"]
+    8 -> 12 [label="no" color="#FF0000"]
+
+    11 [ label="leaf=0.043059703" ]
+
+    12 [ label="processor_gnrtn_11th<0.5" ]
+    12 -> 17 [label="yes, missing" color="#0000FF"]
+    12 -> 18 [label="no" color="#FF0000"]
+
+    17 [ label="leaf=-0.0137699675" ]
+
+    18 [ label="leaf=0.235184327" ]
+
+    6 [ label="leaf=-0.108129911" ]
+
+    4 [ label="leaf=-0.115909167" ]
+
+    2 [ label="leaf=-0.12322145" ]
+}
