@@ -39,7 +39,7 @@ We explored the dataset. The median price of laptops was a reasonable $834. Pric
 I chose to utilize a few different packages in order to perform the Machine Learning modeling. We first pre-processed the data by imputing missing data and doing the necessary dummy encoding. 
 
 #5.1 K-Prototype
-For K-Prototype I used the @nicodv K-Modes package that can be found [here](https://github.com/nicodv/kmodes}. We ended with a 12-cluster model that worked pretty well. 
+For K-Prototype I used the @nicodv K-Modes package that can be found [here](https://github.com/nicodv/kmodes). We ended with a 12-cluster model that worked pretty well. 
 I used K-Prototype because of its ability to directly measure using categorical variables without its need for dummy encoding. We followed up with SHAP values to understand how much each feature impacted the algorithm's ability to cluster.
 ![K-Prototype Shap Values](./readme_files/kproto_shap.jpg)
 
