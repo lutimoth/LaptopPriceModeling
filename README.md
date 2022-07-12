@@ -39,7 +39,7 @@ We explored the dataset. The median price of laptops was a reasonable $834. Pric
 I chose to utilize a few different packages in order to perform the Machine Learning modeling. We first pre-processed the data by imputing missing data and doing the necessary dummy encoding. 
 
 #5.1 K-Prototype
-For K-Prototype I used the @nicodv K-Modes package that can be found [here](https://github.com/nicodv/kmodes). We ended with a 12-cluster model that worked pretty well. 
+For K-Prototype I used the [@nicodv](https://github.com/nicodv/kmodes) K-Modes package that can be found [here](https://github.com/nicodv/kmodes). We ended with a 12-cluster model that worked pretty well. 
 I used K-Prototype because of its ability to directly measure using categorical variables without its need for dummy encoding. We followed up with SHAP values to understand how much each feature impacted the algorithm's ability to cluster.
 ![K-Prototype Shap Values](./readme_files/kproto_shap.jpg)
 
@@ -49,7 +49,7 @@ For Isomapping we used the scikit-learn manifold learning algorithm. It is a dim
 ![2-D Isomapping](./readme_files/iso2d.jpg)
 
 #5.3 XGBoost
-XGBoost utilized the @dmlc [XGBoost Algorithm](https://github.com/dmlc/xgboost) and the Python API. Using XGBoost was able to give really good insight into important features for prediction and pricing alongside the ability to understand how certain pricing divisions could be made. 
+XGBoost utilized the [@dmlc](https://github.com/dmlc) [XGBoost Algorithm](https://github.com/dmlc/xgboost) and the Python API. Using XGBoost was able to give really good insight into important features for prediction and pricing alongside the ability to understand how certain pricing divisions could be made. 
 
 ![XGBoost Feature Importance](./readme_files/xgboost_feature.jpg)
 
