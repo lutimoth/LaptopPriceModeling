@@ -14,7 +14,7 @@ The goal was to first clean the data and choose our ideal features. There are a 
 
 1. **Regression models** - This is useful for predicting a continuous price and features. While this is good it can be difficult to understand the interaction of all features that can bring together a laptop.
 2. **Clustering** - This allows us to group laptops by their specifications and look at a combination of features which describe a laptop's price point. This would be a more ideal algorith to utilize.
-3. ** Decision Tree** - These algorithms are also able to find pathways which lead to optimal solutions, in this case price categories. 
+3. **Decision Tree** - These algorithms are also able to find pathways which lead to optimal solutions, in this case price categories. 
 
 Ultimately, we chose to focus on clustering but tried other methods such as XGBoost Decision Trees and Isomap.
 
